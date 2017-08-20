@@ -1,6 +1,5 @@
-// System Configuration
-// Device Part Number	: MSP430F5132
-// compiler             : Code Composer Studio 5.5.0.00077
+// Microcontroller Part Number	: MSP430F5132
+// compiler             : Code Composer Studio 6
 // Oscillator Frequency	: 25MHz,  using internal DCO
 // PWM generation		: TIMER D1.0, 25MHz, OUTMOD = Up mode-set/reset,PWM frequency set for 20 kHz using
 //						  constant "PWM_PERIOD".
