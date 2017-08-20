@@ -1,0 +1,1 @@
+"./main.obj" "../BLDC_sensorless_trapezoidal.lib" "../lnk_msp430f5132.cmd" -llibc.a 
